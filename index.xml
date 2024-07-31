@@ -15,5 +15,12 @@
       <guid>http://localhost:1313/rxl/posts/my-first-post---%E5%89%AF%E6%9C%AC/</guid>
       <description>任晓龙</description>
     </item>
+    <item>
+      <title>My First Post</title>
+      <link>http://localhost:1313/rxl/posts/my-first-post/</link>
+      <pubDate>Tue, 30 Jul 2024 14:20:22 +0800</pubDate>
+      <guid>http://localhost:1313/rxl/posts/my-first-post/</guid>
+      <description>李政哲</description>
+    </item>
   </channel>
 </rss>
